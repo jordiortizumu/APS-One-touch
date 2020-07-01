@@ -27,6 +27,7 @@ Configure correct path for selected and dependency profile packages.
 - Install dependency packages :
   - sudo apt install python3 (if not already installed)
   - sudo apt install python (python2.7 if not already installed, used by p4studio_build.py)
+  - sudo apt install python3-yaml (if not already installed)
   - sudo apt-get install libusb-1.0-0-dev (required for BSP compilation)
   - apt-get install libcurl4-openssl-dev (required for BSP compilation)
 - Start installation :
